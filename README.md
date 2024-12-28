@@ -10,7 +10,7 @@ Netflix is one of the leading streaming platforms, offering a vast library of mo
 The dataset contains Movies titles, there rating there watch time, discription of moview, cast etc.
 
 ## Video
-[Watch the Video 1 Presentation Here]([link](https://youtu.be/Y301nXNVOKA)).
+[Watch the Video 1 Presentation Here](https://youtu.be/Y301nXNVOKA).
 
 ## Contents
 - `Movie_recomendation_Presentation.pptx`: The project presentation.
