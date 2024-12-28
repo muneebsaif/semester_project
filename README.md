@@ -10,10 +10,10 @@ Netflix is one of the leading streaming platforms, offering a vast library of mo
 The dataset contains Movies titles, there rating there watch time, discription of moview, cast etc.
 
 ## Video
-[Watch the Video 1 Presentation Here](link).
+[Watch the Video 1 Presentation Here]([link](https://youtu.be/Y301nXNVOKA)).
 
 ## Contents
-- `Presentation.pptx`: The project presentation.
+- `Movie_recomendation_Presentation.pptx`: The project presentation.
 - `Problem_Statement.pdf`: Detailed problem description.
 - `Notebook.ipynb`: Python notebook with data cleaning, EDA, and model.
-- `Dataset.csv`: The dataset used in the project.
+- `dataset/netflix_titles.csv`: The dataset used in the project.
